@@ -1,8 +1,1 @@
-<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
-    <g fill="#606060">
-        <rect x="1" y="1" width="6" height="6" rx="1" ry="1"></rect>
-        <rect x="9" y="1" width="6" height="6" rx="1" ry="1"></rect>
-        <rect x="1" y="9" width="6" height="6" rx="1" ry="1"></rect>
-        <rect x="9" y="9" width="6" height="6" rx="1" ry="1" fill="transparent"></rect>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><g fill="#606060"><rect width="6" height="6" x="1" y="1" rx="1" ry="1"/><rect width="6" height="6" x="9" y="1" rx="1" ry="1"/><rect width="6" height="6" x="1" y="9" rx="1" ry="1"/><rect width="6" height="6" x="9" y="9" fill="transparent" rx="1" ry="1"/></g></svg>

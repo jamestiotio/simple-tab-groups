@@ -1,13 +1,1 @@
-<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
-    <g fill="context-fill #4e4f50" fill-opacity="context-fill-opacity">
-        <rect height="32" width="32" />
-        <rect height="32" width="32" x="48" />
-        <rect height="32" width="32" x="96" y="48" />
-        <rect height="32" width="32" y="48" />
-        <rect height="32" width="32" x="48" y="48" />
-        <rect height="32" width="32" x="96" />
-        <rect height="32" width="32" y="96" />
-        <rect height="32" width="32" x="48" y="96" />
-        <rect height="32" width="32" x="96" y="96" />
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="128" height="128"><g fill="context-fill #4e4f50" fill-opacity="context-fill-opacity"><rect width="32" height="32"/><rect width="32" height="32" x="48"/><rect width="32" height="32" x="96" y="48"/><rect width="32" height="32" y="48"/><rect width="32" height="32" x="48" y="48"/><rect width="32" height="32" x="96"/><rect width="32" height="32" y="96"/><rect width="32" height="32" x="48" y="96"/><rect width="32" height="32" x="96" y="96"/></g></svg>
